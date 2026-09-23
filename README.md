@@ -1,4 +1,4 @@
-# C# Primer
+![Banner](banner.png)
 
 A short, hands-on introduction to C# for students with no programming
 background. Five small example files, each teaching one idea, that build toward
