@@ -69,7 +69,7 @@ here.
 
 ## The capstone project
 
-`Blackjack.cs` is a guided scaffold for the card game. You're dealt two cards;
+`Proj.cs` is a guided scaffold for the card game. You're dealt two cards;
 you **hit** to draw another or **stand** to hold. Go over 21 and you bust.
 After you stand, the dealer draws to at least 17, and whoever is closest to 21
 without busting wins.
