@@ -110,8 +110,8 @@ store it in a `string?`.
 ## Getting help
 
 Bring your code — working or broken — to a Coding and Programming (C&P)
-appointment or drop-in. Book at [booking link] or email [contact email].
-Drop-in times for [term] are posted at [link].
+appointment or drop-in. Book at [ontariotech.quadc.io] or email [benjamin.fedoruk@ontariotechu.ca].
+Drop-in times for Coding and Programming Study Hall are posted [[link](https://docs.google.com/spreadsheets/d/1HoCmjlVqAKp0YtidoM_r6wVRqoinUT5GJ64THxeA5SE/edit?gid=0#gid=0)].
 
 ## About
 
