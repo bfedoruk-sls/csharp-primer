@@ -33,7 +33,7 @@ any text editor works.
 | `Ex3.cs` | Loops | Repeat work with `for`, `foreach`, and `while` |
 | `Ex4.cs` | Methods and classes | Write methods and build your own class |
 | `Ex5.cs` | Collections | Store data in a `List<T>` and a `Dictionary<TKey,TValue>` |
-| `Blackjack.cs` | Capstone project | Build a playable game of Blackjack |
+| `Proj.cs` | Capstone project | Build a playable game of Blackjack |
 
 Work through them in order. Each example assumes the ones before it.
 
